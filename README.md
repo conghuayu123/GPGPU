@@ -1,4 +1,4 @@
 # GPGPU
 A small GPGPU design
 -----------------UPDATE---------------------------
-update the total design
+20250915 update the total design（not included fp8）
